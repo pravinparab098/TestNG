@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-30T14:57:51 IST" name="Default suite" finished-at="2022-12-30T14:57:51 IST" duration-ms="80">
+    <groups>
+      <group name="Smoke">
+        <method signature="lect132XMLfile.FirstPrograme()[pri:0, instance:sec16TestNG.lect132XMLfile@41e1e210]" name="FirstPrograme" class="sec16TestNG.lect132XMLfile"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2022-12-30T14:57:51 IST" name="Default test" finished-at="2022-12-30T14:57:51 IST" duration-ms="80">
+      <class name="sec16TestNG.lect132XMLfile">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:sec16TestNG.lect132XMLfile@41e1e210]" started-at="2022-12-30T14:57:51 IST" name="beforeclass" finished-at="2022-12-30T14:57:51 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method signature="FirstPrograme()[pri:0, instance:sec16TestNG.lect132XMLfile@41e1e210]" started-at="2022-12-30T14:57:51 IST" name="FirstPrograme" finished-at="2022-12-30T14:57:51 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstPrograme -->
+        <test-method signature="SecondPrograme(java.lang.String,java.lang.String)[pri:0, instance:sec16TestNG.lect132XMLfile@41e1e210]" started-at="2022-12-30T14:57:51 IST" name="SecondPrograme" data-provider="getData" finished-at="2022-12-30T14:57:51 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstsetusename]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondPrograme -->
+        <test-method signature="SecondPrograme(java.lang.String,java.lang.String)[pri:0, instance:sec16TestNG.lect132XMLfile@41e1e210]" started-at="2022-12-30T14:57:51 IST" name="SecondPrograme" data-provider="getData" finished-at="2022-12-30T14:57:51 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secondpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondPrograme -->
+        <test-method signature="SecondPrograme(java.lang.String,java.lang.String)[pri:0, instance:sec16TestNG.lect132XMLfile@41e1e210]" started-at="2022-12-30T14:57:51 IST" name="SecondPrograme" data-provider="getData" finished-at="2022-12-30T14:57:51 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirdusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[thirdpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondPrograme -->
+        <test-method is-config="true" signature="lastExecute()[pri:0, instance:sec16TestNG.lect132XMLfile@41e1e210]" started-at="2022-12-30T14:57:51 IST" name="lastExecute" finished-at="2022-12-30T14:57:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastExecute -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:sec16TestNG.lect132XMLfile@41e1e210]" started-at="2022-12-30T14:57:51 IST" name="afterSuite" finished-at="2022-12-30T14:57:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- sec16TestNG.lect132XMLfile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
